@@ -30,19 +30,15 @@ For example you could print political motivated wrapping paper for your cousin w
 
 ![buymyart](img/wrapping.jpeg)
 
-High-resolution versions and commercial usage licenses of this pattern are available in my shop.
-
-Etsy: (Link coming very soon..)
+High-resolution versions and commercial usage licenses of this pattern are available in my [shop](https://www.etsy.com/de-en/listing/4453829583/clitoris-inspired-seamless-repeat).
 
 You can also follow my artwork and new releases here:
 
-Instagram: [drawnlastnight](https://www.instagram.com/drawnlastnight?igsh=MXhtYWNmZnZhNDNucg==)
+Instagram: [drawnlastnight](https://www.instagram.com/drawnlastnight)
 
 
 
 In the future I will also make a website for my art and host this tool with a cute frontend.
-
-Please do not steal my frog art, if you use it tag me.
 
 ## License
 The code is licensed under MIT License (see LICENSE file).
